@@ -1,5 +1,3 @@
-
-Memory updated
 The Anime Character Showcase is a web-based project that highlights popular characters from the Naruto anime series, offering a brief glimpse into each character's backstory and unique powers. The interface is styled to create a dark, immersive environment, with smooth color transitions and subtle animations that draw attention to each character.
 
 Key Features:
